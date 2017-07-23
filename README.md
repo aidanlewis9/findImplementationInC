@@ -7,6 +7,11 @@ Members
 - Jessica Hardey (jhardey@nd.edu)
 - Aidan Lewis (alewis9@nd.edu)
 
+Brief Summary
+-------
+
+With this project, we reimplemented the find command in shell using C code.
+
 Responses
 ---------
 
